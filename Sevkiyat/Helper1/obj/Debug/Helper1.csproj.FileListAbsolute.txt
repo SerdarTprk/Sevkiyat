@@ -1,0 +1,4 @@
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Helper1\obj\Debug\Helper1.csprojAssemblyReference.cache
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Helper1\obj\Debug\Helper1.Properties.Resources.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Helper1\obj\Debug\Helper1.csproj.GenerateResource.cache
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Helper1\obj\Debug\Helper1.csproj.CoreCompileInputs.cache

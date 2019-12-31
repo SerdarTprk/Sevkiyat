@@ -1,0 +1,167 @@
+C:\Users\user\source\repos\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormDriverUpdate.resources
+C:\Users\user\source\repos\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormProductAdd.resources
+C:\Users\user\source\repos\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormVehicleList.resources
+C:\Users\user\source\repos\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Properties.Resources.resources
+C:\Users\user\source\repos\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormPayersUpdate.resources
+C:\Users\user\source\repos\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormPayerAdd.resources
+C:\Users\user\source\repos\Sevkiyat\Sevkiyat.UI\bin\Debug\Sevkiyat.UI.exe.config
+C:\Users\user\source\repos\Sevkiyat\Sevkiyat.UI\bin\Debug\Sevkiyat.UI.exe
+C:\Users\user\source\repos\Sevkiyat\Sevkiyat.UI\bin\Debug\Sevkiyat.UI.pdb
+C:\Users\user\source\repos\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormMain.resources
+C:\Users\user\source\repos\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormWayBillAdd.resources
+C:\Users\user\source\repos\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.exe
+C:\Users\user\source\repos\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.pdb
+C:\Users\user\source\repos\Sevkiyat\Sevkiyat.UI\bin\Debug\WinformHelper.dll
+C:\Users\user\source\repos\Sevkiyat\Sevkiyat.UI\bin\Debug\WinformHelper.pdb
+C:\Users\user\source\repos\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormDriverAdd.resources
+C:\Users\user\source\repos\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormPayersList.resources
+C:\Users\user\source\repos\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormVehicleAdd.resources
+C:\Users\user\source\repos\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.csproj.CopyComplete
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\Sevkiyat.UI.exe.config
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\Sevkiyat.UI.exe
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\Sevkiyat.UI.pdb
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\EntityFramework.dll
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\WinformHelper.dll
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\WinformHelper.pdb
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\EntityFramework.xml
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.csprojAssemblyReference.cache
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormDriverAdd.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormIrsaliyeDetay.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormLogin.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormMain.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormPayerAdd.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormPayersList.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormPayersUpdate.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormVehicleAdd.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormDriverUpdate.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormProductAdd.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormVehicleList.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormWayBillAdd.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Properties.Resources.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.csproj.GenerateResource.cache
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.csproj.CopyComplete
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.exe
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.pdb
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormDriverList.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormPasswordChange.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormProductList.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormUserAdd.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormUserList.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormWaybillDetails.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormWayBillUpdate.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\Sevkiyat.UI.exe.config
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\Sevkiyat.UI.exe
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\Sevkiyat.UI.pdb
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\EntityFramework.dll
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\WinformHelper.dll
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\WinformHelper.pdb
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\EntityFramework.xml
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.csprojAssemblyReference.cache
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormDriverList.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormPasswordChange.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormProductList.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormDriverAdd.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormIrsaliyeDetay.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormLogin.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormMain.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormPayerAdd.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormPayersList.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormPayersUpdate.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormVehicleAdd.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormDriverUpdate.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormProductAdd.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormVehicleList.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormWayBillAdd.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormUserAdd.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormUserList.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormWaybillDetails.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormWayBillUpdate.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Properties.Resources.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.csproj.GenerateResource.cache
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.csproj.CoreCompileInputs.cache
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.csproj.CopyComplete
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.exe
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.pdb
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormProductUpdate.resources
+C:\Users\serda\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormVehicleUpdate.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.csprojAssemblyReference.cache
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormDriverList.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormPasswordChange.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormProductList.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormDriverAdd.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormIrsaliyeDetay.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormLogin.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormMain.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormPayerAdd.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormPayersList.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormPayersUpdate.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormProductUpdate.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormVehicleAdd.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormDriverUpdate.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormProductAdd.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormVehicleList.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormVehicleUpdate.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormWayBillAdd.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormUserAdd.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormUserList.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormWaybillDetails.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormWayBillUpdate.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Properties.Resources.resources
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.csproj.GenerateResource.cache
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.exe
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.pdb
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\Sevkiyat.UI.exe.config
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\Sevkiyat.UI.exe
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\Sevkiyat.UI.pdb
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\EntityFramework.dll
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\WinformHelper.dll
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\WinformHelper.pdb
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\EntityFramework.xml
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\serdar.toprak\Desktop\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.csproj.CopyComplete
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\Sevkiyat.UI.exe.config
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\Sevkiyat.UI.exe
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\Sevkiyat.UI.pdb
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\EntityFramework.dll
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\WinformHelper.dll
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\WinformHelper.pdb
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\EntityFramework.xml
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.csprojAssemblyReference.cache
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormDriverList.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormPasswordChange.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormProductList.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormDriverAdd.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormIrsaliyeDetay.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormLogin.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormMain.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormPayerAdd.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormPayersList.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormPayersUpdate.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormProductUpdate.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormUserUpdate.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormVehicleAdd.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormDriverUpdate.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormProductAdd.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormVehicleList.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormVehicleUpdate.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormWayBillAdd.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormUserAdd.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormUserList.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Forms.FormWaybillDetails.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.FormWayBillUpdate.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.Properties.Resources.resources
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.csproj.GenerateResource.cache
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.csproj.CoreCompileInputs.cache
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.csproj.CopyComplete
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.exe
+C:\Users\serda\Desktop\Sevkiyat (4)\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat\Sevkiyat.UI\obj\Debug\Sevkiyat.UI.pdb

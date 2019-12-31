@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="05a0eafa91e745c88eca5726eb8e8af0" Name="Diagram1" ZoomLevel="81">
+        <EntityTypeShape EntityType="SevkiyatDBContext.Driver" Width="1.5" PointX="0.75" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SevkiyatDBContext.Payer" Width="1.5" PointX="0.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SevkiyatDBContext.Product" Width="1.5" PointX="3" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="SevkiyatDBContext.Role" Width="1.5" PointX="1.5" PointY="12.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SevkiyatDBContext.sysdiagram" Width="1.5" PointX="5.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SevkiyatDBContext.User" Width="1.5" PointX="0.75" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SevkiyatDBContext.Vehicle" Width="1.5" PointX="0.75" PointY="15" IsExpanded="true" />
+        <EntityTypeShape EntityType="SevkiyatDBContext.WayBillDetail" Width="1.5" PointX="5.25" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="SevkiyatDBContext.WayBill" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="SevkiyatDBContext.FK_WayBills_Drivers" ManuallyRouted="false" />
+        <AssociationConnector Association="SevkiyatDBContext.FK_WayBills_Payers" ManuallyRouted="false" />
+        <AssociationConnector Association="SevkiyatDBContext.FK_WayBills_Payers1" ManuallyRouted="false" />
+        <AssociationConnector Association="SevkiyatDBContext.FK_WayBillDetails_Products" ManuallyRouted="false" />
+        <AssociationConnector Association="SevkiyatDBContext.FK_WayBills_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="SevkiyatDBContext.FK_WayBills_Vehicles" ManuallyRouted="false" />
+        <AssociationConnector Association="SevkiyatDBContext.FK_WayBillDetails_WayBills" ManuallyRouted="false" />
+        <AssociationConnector Association="SevkiyatDBContext.UserRole" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
